@@ -1,5 +1,5 @@
 {
-  "name": "heroku-vless",
+  "name": "vless",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "0d6ac84a-77f3-4b19-aa2b-c4791e9f7744"
     }
   },
   "website": "https://github.com/Tjurfasku/Fjudd-G054/",
-  "repository": "https://github.com/Tjurfasku/Fjudd-G054/heroku-vless",
+  "repository": "https://github.com/Tjurfasku/Fjudd-G054",
   "stack": "container"
 }
